@@ -1,1 +1,1 @@
-I am pretty sure this is how its connected.
+This is how its connected more than pinout.
